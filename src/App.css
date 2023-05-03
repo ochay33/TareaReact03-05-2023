@@ -1,0 +1,40 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+label{
+  display: flex;
+  justify-content: center;
+}
+input{
+  display: block;
+  justify-content: center;
+}
+.divinput{
+  display: flex;
+  justify-content: center;
+}
+.todos {
+  display: block;
+  border: 1px solid black;
+  width: 300px;
+  margin-left: 38%;
+  margin-top: 5%;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  border: 1px solid black;
+  width: 80%;
+  margin-bottom: 10px;
+}
+button {
+  border-radius: 10px;
+  background-color: gray;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-right: 3px;
+  opacity: 0.4;
+  border: none;
+}
